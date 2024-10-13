@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035601772212",
+    "project_id": "realtimedatabase-98f80",
+    "storage_bucket": "realtimedatabase-98f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035601772212:android:003506a83f3de40839a1e1",
+        "android_client_info": {
+          "package_name": "eu.tutorials.realtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YtIxmk8LTYL4CTR7O5-7Lw_NiBr82vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
